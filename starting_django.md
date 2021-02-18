@@ -26,7 +26,7 @@
     ```
 - Mac
     ```properties
-    source my_environments\djangoPy3env\Scripts\Activate
+    source my_environments\djangoPy3env\bin\activate
     ```
     <br>
 
